@@ -3,7 +3,7 @@ from django.http import HttpResponse
 def task_create(request):
     html_response = """
     <form>
-      <h2>Vazifalar Ro'yxati</h2>
+      <h2>VAZIFALAR RO'YXATI</h2>
       <h3>Yangi vazifa qo'shish</h3><br>
 
       <label for="name">Vazifa nomi:</label>
